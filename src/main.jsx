@@ -4,7 +4,8 @@ import App from './App';
 import store from './store';
 import { Provider } from 'react-redux';
 import './index.css'
-import 'bootswatch/dist/Solar/bootstrap.min.css';
+//import 'bootswatch/dist/Solar/bootstrap.min.css';
+import "bootswatch/dist/zephyr/bootstrap.min.css";
 
 
 
